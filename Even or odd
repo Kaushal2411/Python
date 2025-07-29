@@ -1,0 +1,5 @@
+x=int(input("Enter no.")) 
+if x%2==0:
+    print(prime no.) 
+else:
+    print(not a prime no.)
